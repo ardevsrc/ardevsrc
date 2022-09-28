@@ -1,6 +1,6 @@
 <!-- 
 ### Hi there, I'm Maury 👋
--->
+
 
 ## I'm a Developer.
 
@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 
 ### Databases:
  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
- 
+--> 
